@@ -4,3 +4,5 @@ Added Target Players toggle
 Aimbot now only works in singleplayer
 Keybinds now show under their own category in Controls menu
 Various improvements and A LOT of fixes.
+
+Modrinth Link: https://modrinth.com/mod/qaimbot
